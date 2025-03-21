@@ -1,0 +1,61 @@
+<!-- Q1 -->
+Q1 : Given an array arr[], the task is to reverse the array. Reversing an array means rearranging the elements such that the first element becomes the last, the second element becomes second last and so on.
+
+Example:
+Input: arr[] = {1, 4, 3, 2, 6, 5}
+Output: {5, 6, 2, 3, 4, 1}
+
+
+<!-- Q2 -->
+Q2: Given an array of size N. The task is to find the maximum and the minimum element of the array 
+
+Example:
+Input: arr[] = {3, 5, 4, 1, 9}
+Output: Minimum element is: 1
+              Maximum element is: 9
+
+
+<!-- Q3 -->
+Q3:Given an array arr[] of N distinct elements and a number K. Find the K’th smallest and largest element in the given array.
+
+Example:
+Input: arr[] = {3, 5, 4, 1, 9, 8}, k=3
+
+output : 4 and 5
+4 is 3rd smallest 
+5 is 3rd largest 
+
+
+<!-- Q4 -->
+Q4:Given an array arr[] consisting of only 0s, 1s, and 2s. The task is to sort the array, i.e., put all 0s first, then all 1s and all 2s in last.
+
+Example:
+Input: arr[] = {0, 1, 2, 0, 1, 2}
+Output: {0, 0, 1, 1, 2, 2}
+Explanation: {0, 0, 1, 1, 2, 2} has all 0s first, then all 1s and all 2s in last.
+
+
+<!-- Q5 -->
+Q5:Given an array containing both positive and negative numbers in random order. The task is to rearrange the array elements so that all negative numbers appear before all positive numbers.
+
+Example:
+Input: -12, 11, -13, -5, 6, -7, 5, -3, -6
+Output: -12 -13 -5 -7 -3 -6 11 6 5
+
+
+<!-- Q6 -->
+Q6: Write a program to cyclically rotate an array by one and k positions.
+
+Example:
+Input: arr[] = [1, 2, 3, 4, 5]
+Output: [5, 1, 2, 3, 4]
+
+<!-- Q7 -->
+Q7: Given an array arr[], the task is to find the subarray that has the maximum sum and return its sum.
+
+Example:
+
+Input: arr[] = {2, 3, -8, 7, -1, 2, 3}
+Output: 11
+Explanation: The subarray {7, -1, 2, 3} has the largest sum 11.
+
